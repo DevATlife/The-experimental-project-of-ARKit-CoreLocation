@@ -1,0 +1,6 @@
+framework module Pods_ARCL3 {
+  umbrella header "Pods-ARCL3-umbrella.h"
+
+  export *
+  module * { export * }
+}
