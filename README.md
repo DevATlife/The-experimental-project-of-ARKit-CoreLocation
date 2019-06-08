@@ -24,7 +24,7 @@ Be aware that whenever you add a third party library to your project then that r
 Make sure to add Privacy Camera Usage Description and Privacy
   Location when in Use Usage Descriptionin the plist file:
 
-``` Privacy Location when in Use Usage Description ```
+``` Privacy Camera Usage Description ```
 
 
 ``` Privacy Location when in Use Usage Descriptionin ```
