@@ -15,7 +15,9 @@ Be aware that whenever you add a third party library to your project then that r
 
 
  Use https://www.canva.com/create/labels/  to create the label  (pins)
+ 
  Use https://www140.lunapic.com/editor/?action=quick-upload to make the background of the pin transparent.
+ 
  Use https://www.latlong.net/  to get the locations coordinates of the landmarks.
 
 
