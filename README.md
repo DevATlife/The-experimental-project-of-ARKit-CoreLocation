@@ -13,6 +13,7 @@ into your Xcode project by following below steps:
 
 Be aware that whenever you add a third party library to your project then that requires you to open it through the use of xcworkspace file. 
 
+
  Use https://www.canva.com/create/labels/  to create the label  (pins)
  
  Use https://www140.lunapic.com/editor/?action=transparentto make the background of the pin transparent.
