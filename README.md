@@ -1,8 +1,11 @@
 
 ## To implement the project, you can follow the tutorial video I made on YouTube https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw 
 
+<br>
+<a href="https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw" target="_blank"><img src="https://i9.ytimg.com/vi/A2mqQdxnlqw/mqdefault.jpg?sqp=CKia2-gF&rs=AOn4CLA-V2ilusWf4js3XIXJ624AXKLKHw&time=1561775645546" 
+alt="Augmented Reality" width="531" height="331" border="10" /></a>
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw v=YOUTUBE_VIDEO_ID_HERE)
+<br>
 
 Use CocoaPods to integrate ARKit-CoreLocation ProjectDent https://github.com/ProjectDent/ARKit-CoreLocation 
 into your Xcode project by following below steps:
