@@ -2,6 +2,8 @@
 ## To implement the project, you can follow the tutorial video I made on YouTube https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw 
 
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw v=YOUTUBE_VIDEO_ID_HERE)
+
 Use CocoaPods to integrate ARKit-CoreLocation ProjectDent https://github.com/ProjectDent/ARKit-CoreLocation 
 into your Xcode project by following below steps:
 
