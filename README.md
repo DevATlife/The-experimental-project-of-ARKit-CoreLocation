@@ -2,13 +2,16 @@ Use CocoaPods to integrate ARKit-CoreLocation ProjectDent https://github.com/Pro
 into your Xcode project by following below steps:
 
 
-> - Create a new Xcode project type of (Single View App) ```
+You can follow the tutorial video I made on YouTube https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw  
+to implement the project.
 
-> - Open Terminal then type ( cd ) then drag your project root folder into the Terminal and press return ```
+> - Create a new Xcode project type of (Single View App) 
 
-> - Once you are inside your project in the Terminal, type (pod init) this will initialize a pod file in your project. ```
+> - Open Terminal then type ( cd ) then drag your project root folder into the Terminal and press return 
 
-> - Open your project folder using finder then open the pod file using Brackets or Atom get that done then follow ProjectDent instructions. ```
+> - Once you are inside your project in the Terminal, type (pod init) this will initialize a pod file in your project. 
+
+> - Open your project folder using finder then open the pod file using Brackets or Atom get that done then follow ProjectDent instructions. 
 
 
 Be aware that whenever you add a third party library to your project then that requires you to open it through the use of xcworkspace file. 
@@ -24,7 +27,7 @@ Be aware that whenever you add a third party library to your project then that r
 Make sure to add Privacy Camera Usage Description and Privacy
   Location when in Use Usage Descriptionin the plist file:
 
-> Privacy Camera Usage Description ```
+> Privacy Camera Usage Description 
 
 
-> Privacy Location when in Use Usage Descriptionin ```
+> Privacy Location when in Use Usage Descriptionin
