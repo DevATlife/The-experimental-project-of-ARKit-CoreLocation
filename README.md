@@ -1,9 +1,10 @@
+
+## You can follow the tutorial video I made on YouTube https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw  to implement the project.
+
+
 Use CocoaPods to integrate ARKit-CoreLocation ProjectDent https://github.com/ProjectDent/ARKit-CoreLocation 
 into your Xcode project by following below steps:
 
-
-You can follow the tutorial video I made on YouTube https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw  
-to implement the project.
 
 > - Create a new Xcode project type of (Single View App) 
 
