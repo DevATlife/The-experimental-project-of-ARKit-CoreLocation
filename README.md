@@ -4,7 +4,7 @@
 <br>
 <a href="https://www.youtube.com/watch?time_continue=1249&v=A2mqQdxnlqw" target="_blank"></a>
 
-<br><br>
+<br>
 
 Use CocoaPods to integrate ARKit-CoreLocation ProjectDent https://github.com/ProjectDent/ARKit-CoreLocation 
 into your Xcode project by following below steps:
